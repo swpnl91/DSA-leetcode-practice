@@ -1,5 +1,7 @@
+// Unicorns Eat Popcorn, So Remember...
+
 // U -> Understand the problem
-// E -> Examples
+// E -> Explore Examples
 // P -> Pseudo code
 // S -> Simplify/Solve
 // R -> Re-factor
